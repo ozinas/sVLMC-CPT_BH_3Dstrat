@@ -5,7 +5,9 @@ This repository contains Jupyter notebooks utilizing **GPyTorch** for Gaussian P
 
 ## Dependencies
 - Python 3.x
+- scipy
 - GPyTorch
+- BoTorch
 - PyTorch
 - Jupyter Notebook
 
