@@ -9,6 +9,9 @@ This repository contains Jupyter notebooks utilizing **GPyTorch** for Gaussian P
 - GPyTorch
 - BoTorch
 - PyTorch
+- pandas
+- matplotlib
+- scikit-learn
 - Jupyter Notebook
 
 ## Usage
