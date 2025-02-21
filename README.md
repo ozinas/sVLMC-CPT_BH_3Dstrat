@@ -13,6 +13,7 @@ This repository contains Jupyter notebooks utilizing **GPyTorch** for Gaussian P
 - matplotlib
 - scikit-learn
 - Jupyter Notebook
+- KeOps
 
 ## Usage
 These notebooks are shared for transparency and reproducibility. Users can run the scripts to obtain similar results, but modifications may be required for different levels of accuracy.
