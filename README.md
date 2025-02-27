@@ -10,6 +10,7 @@ This repository contains Jupyter notebooks utilizing **GPyTorch** for Gaussian P
 - BoTorch  0.9.5
 - PyTorch 2.2.0+cu118
 - pandas 2.1.4
+- openpyxl
 - matplotlib
 - scikit-learn 1.4.1.post1
 - Jupyter Notebook 7.0.8
