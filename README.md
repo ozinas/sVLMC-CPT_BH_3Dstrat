@@ -16,6 +16,8 @@ This repository contains Jupyter notebooks utilizing **GPyTorch** for Gaussian P
 - KeOps
 - cloudpickle 3.0.0
 
+  CUDA Version: 12.0
+
 ## Usage
 These notebooks are shared for transparency and reproducibility. Users can run the scripts to obtain similar results, but modifications may be required for different levels of accuracy.
 
