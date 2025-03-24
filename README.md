@@ -3,7 +3,7 @@ This set of python notebooks and functions contain the code to reproduce some re
 
 This repository contains Jupyter notebooks utilizing **GPyTorch** for Gaussian Process modeling. The code is intended to **reproduce specific results** from our study and is not provided as a general-purpose model. It includes working scripts that were used to generate the reported results. 
 
-## Dependencies
+## Requirements
 - Python 3.12.2
 - scipy 1.11.3
 - GPyTorch 1.11
