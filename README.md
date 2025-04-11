@@ -33,8 +33,7 @@ year = {2025},
 issn = {0013-7952},
 doi = {https://doi.org/10.1016/j.enggeo.2025.108052},
 url = {https://www.sciencedirect.com/science/article/pii/S0013795225001486},
-author = {Orestis Zinas and Iason Papaioannou and Ronald Schneider and Pablo Cuéllar},
-keywords = {Site characterization, Stratigraphy prediction, Multivariate Gaussian process, Linear Model of Coregionalization, Variational inference}}
+author = {Orestis Zinas and Iason Papaioannou and Ronald Schneider and Pablo Cuéllar}}
 
 ## Disclaimer
 This code is provided **as-is** for transparency purposes. It is not a fully developed software package and may require adjustments to work with other data or applications.
